@@ -1,0 +1,2 @@
+# validatoriai
+parduotuves patikrinimas
